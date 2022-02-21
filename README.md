@@ -1,3 +1,3 @@
 # AdoptMe
 
-React App to explor hooks
+React App to explore hooks.
